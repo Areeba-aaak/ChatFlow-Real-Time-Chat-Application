@@ -1,4 +1,5 @@
-ChatFlow — Real-Time Chat Application ChatFlow is a full-stack messaging application built with React on the frontend and Node.js, Express, PostgreSQL, and Socket.IO on the backend. It combines REST APIs for persistent operations with WebSocket events for live chat and presence updates. Features
+ChatFlow — Real-Time Chat Application
+ChatFlow is a full-stack messaging application built with React on the frontend and Node.js, Express, PostgreSQL, and Socket.IO on the backend. It combines REST APIs for persistent operations with WebSocket events for live chat and presence updates. Features
 
 User authentication — register, log in, log out, and refresh access tokens using JWT.
 Private conversations — create and access one-to-one chats.
